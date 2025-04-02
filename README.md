@@ -1,12 +1,9 @@
 # I'm Richard 👋!
 
 ### About me
-I'm an avid tabletop/video gamer, tech enthusiast, and IT guy.
-
-- 🌱 I’m currently learning how to build a homelab and create accessible, responsive, mobile-first PWA's
-- 🐸 Graphic design is my passion (I am ACA certified in PhotoShop CS6 to make poor memes)
-- 🥭 Fun fact: I would absolutely accept payments in Mango based drinks
+IT guy who occassionally codes when a [strange mood](https://dwarffortresswiki.org/index.php/Strange_mood) strikes. 
+Peep my [personal site](https://rvt.sh) too!
 
 ### Contact
 
-Feel free to contact me via my personal website [rvtuma.com](https://rvtuma.com)
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/richard-vilaret-tuma/)!
